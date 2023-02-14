@@ -1,6 +1,6 @@
 # College-Recruitment-Improvement-Study
 
-Basic Demographics
+## Basic Demographics
 
     1. How many students from each different class responded to the survey?
 		
@@ -38,8 +38,13 @@ Basic Demographics
 		- 65+ : 1.4%
 		
 	
-Disaggregation of Data
+## Disaggregation of Data
 
 	Insights
-		- Of women that are enrolled as a computing majors at CCM... 			1. About 87% said they did not receive any information, or 			did not recall receiving any information about 				computing programs from CCM advisors/counselors.
-		   2. About 87% said they did not receive any information 			about computing programs via CCM Workforce Development.
+		- Of women that are enrolled as a computing majors at CCM...
+			1. About 87% said they did not/do not recall receiving any information about computing programs from CCM advisors/counselors.
+			2. About 87% said they did not receive any information about computing programs via CCM Workforce Development.
+
+	Questions
+		1. What were the main 5 main ways students found out about CCM?
+			- 

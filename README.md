@@ -47,4 +47,10 @@
 
 	Questions
 		1. What were the main 5 main ways students found out about CCM?
-			- 
+			1. Family Member/Friend: 157 Students
+			2. HS Counselor: 112 Students
+			3. HS Teacher: 108 Students
+			4. Current CCM Student: 87 Students
+			5. CCM Website: 73 Students
+		2. 
+			

@@ -41,5 +41,5 @@ Basic Demographics
 Disaggregation of Data
 
 	Insights
-		- Of woman that are enrolled as a computing majors at CCM, about 87% said they did not receive any information, or did not recall receiving any information about computing programs from CCM advisors/counselors.
-		
+		- Of women that are enrolled as a computing majors at CCM... 			1. About 87% said they did not receive any information, or 			did not recall receiving any information about 				computing programs from CCM advisors/counselors.
+		   2. About 87% said they did not receive any information 			about computing programs via CCM Workforce Development.

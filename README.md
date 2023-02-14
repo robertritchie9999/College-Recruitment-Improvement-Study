@@ -53,7 +53,7 @@
 			4. Current CCM Student: 87 Students
 			5. CCM Website: 73 Students
 		2. Did students who found out from a high school teacher have more or less interest in computer classes?
-			- Students who found out about CCM from a high school teacher (84 students), had an average interest level of **3.67** (On a scale of 1 to 5).
-			- Students who did NOT find out about CCM from a high school teacher (25 students), had an average interest level of **3.72** (On a scale of 1 to 5).
+			- Students who found out about CCM from a high school teacher (84 students), had an average interest level of 3.67 (On a scale of 1 to 5).
+			- Students who did NOT find out about CCM from a high school teacher (25 students), had an average interest level of 3.72 (On a scale of 1 to 5).
 			- There is virtually no difference in interest level between students who found out about CCM from a high school teacher versus students who didn't, although there is a significantly bigger sample of students who did hear about CCM from a teacher as opposed to those who did not.
 			

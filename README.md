@@ -2,7 +2,7 @@
 
 Basic Demographics
 
-    1. How many students from each different class responded to the survey?
+    	1. How many students from each different class responded to the survey?
 		- CMP 128 Computer Science I: 150 Students
 		- CMP 130 Intro to IT: 9 Students
 		- CMP 131 Fundamentals of Programming (Python): 34 Students
@@ -32,6 +32,7 @@ Basic Demographics
 		- 25-34: 6.9%
 		- 35-64: 4.6%
 		- 65+ : 1.4%
+		
 	
-	Insights
+Insights
 		

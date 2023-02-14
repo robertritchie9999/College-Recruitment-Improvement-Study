@@ -46,11 +46,14 @@
 			2. About 87% said they did not receive any information about computing programs via CCM Workforce Development.
 
 	Questions
-		1. What were the main 5 main ways students found out about CCM?
+		1. What were the main 5 main ways students found out about CCM? (Not including 'Do not recall' answers)
 			1. Family Member/Friend: 157 Students
 			2. HS Counselor: 112 Students
 			3. HS Teacher: 108 Students
 			4. Current CCM Student: 87 Students
 			5. CCM Website: 73 Students
-		2. 
+		2. Did students who found out from a high school teacher have more or less interest in computer classes?
+			- Students who found out about CCM from a high school teacher (84 students), had an average interest level of **3.67** (On a scale of 1 to 5).
+			- Students who did NOT find out about CCM from a high school teacher (25 students), had an average interest level of **3.72** (On a scale of 1 to 5).
+			- There is virtually no difference in interest level between students who found out about CCM from a high school teacher versus students who didn't, although there is a significantly bigger sample of students who did hear about CCM from a teacher as opposed to those who did not.
 			

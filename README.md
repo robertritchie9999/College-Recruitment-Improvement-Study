@@ -2,7 +2,8 @@
 
 Basic Demographics
 
-    	1. How many students from each different class responded to the survey?
+    1. How many students from each different class responded to the survey?
+		
 		- CMP 128 Computer Science I: 150 Students
 		- CMP 130 Intro to IT: 9 Students
 		- CMP 131 Fundamentals of Programming (Python): 34 Students
@@ -10,6 +11,7 @@ Basic Demographics
 		- Data Unavailable: 1 Student
 		
 	2. What are the gender percentages?
+		
 		- Do not Identify: 1.38%
 		- Man: 74.77%
 		- Non-Binary: 1.38%
@@ -17,6 +19,7 @@ Basic Demographics
 		- Woman: 19.27%
 		
 	3. What is the racial ethnic diversity?
+		
 		- American Indian/Native American/Alaska Native: 0.5%
 		- Asian: 14.7%
 		- Black/African American: 2.8%
@@ -26,6 +29,7 @@ Basic Demographics
 		- Chose not to say: 5.5%
 		
 	4. What is the age distribution?
+		
 		- 18 and younger: 35.8%
 		- 19-20: 32.1%
 		- 21-24: 19.3%
@@ -34,5 +38,8 @@ Basic Demographics
 		- 65+ : 1.4%
 		
 	
-Insights
+Disaggregation of Data
+
+	Insights
+		- Of woman that are enrolled as a computing majors at CCM, about 87% said they did not receive any information, or did not recall receiving any information about computing programs from CCM advisors/counselors.
 		
